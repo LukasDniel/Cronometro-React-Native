@@ -8,8 +8,12 @@ Aplicativo de cronômetro com React-Native.
 
 ### Função PAUSE
 
+![Tela Pause](https://i.ibb.co/vhz9BKq/Pause.png)
 
-### E função REINICIAR
+
+### E função REINICIAR e HISTORICO DE ULTIMA MARCAÇÃO
+
+![Tela Pause](https://i.ibb.co/jHM8rnz/reinicia.png)
 
 
-### Histórico da ultima marcação
+
